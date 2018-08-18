@@ -7,7 +7,7 @@ import random
 host = ''
 port = 0
 
-binary = "./babyheap"
+binary = "./infinityheap"
 context.binary = binary
 elf = ELF(binary)
 try:
